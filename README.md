@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **21cs3010@rgipt.ac.in**
 
-- 📄 Know about my experiences [bhavyansh.vercel.app](bhavyansh.vercel.app)
+- 📄 Know about my experiences [bhavyansh.vercel.app]
 
 - ⚡ Fun fact **I'm funny😎**
 ## 🌐 Socials:
