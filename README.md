@@ -1,4 +1,14 @@
+<h1 align="center">Hi 👋, I'm Bhavyansh Tomar</h1>
+<h3 align="center">A skilled Software Engineer and Full Stack developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw3wGPyd0sWElD84rXA-r9T6&ust=1703532721681000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCBo43oqIMDFQAAAAAdAAAAABAD">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thebhavyansh&label=Profile%20views&color=0e75b6&style=flat" alt="thebhavyansh" /> </p>
+
+- 📫 How to reach me **21cs3010@rgipt.ac.in**
+
+- 📄 Know about my experiences [bhavyansh.vercel.app](bhavyansh.vercel.app)
+
+- ⚡ Fun fact **I'm funny😎**
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thebhavyansh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavyanshtomar) 
 <img align="right" alt="coding" width="300" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
