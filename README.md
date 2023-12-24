@@ -5,8 +5,7 @@
 
 - 📫 How to reach me **21cs3010@rgipt.ac.in**
 
-- 📄 Know about my experiences [bhavyansh.vercel.app]
-
+- 📄 Know about my experiences(https://bhavyansh.vercel.app/)
 - ⚡ Fun fact **I'm funny😎**
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thebhavyansh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavyanshtomar) 
